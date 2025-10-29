@@ -1,5 +1,5 @@
 
-[![](https://github-profile-trophy.vercel.app/?username=Pomme978&theme=onestar&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+[![](https://github-profile-trophy.vercel.app/?username=Pomme978&theme=onedark&no-frame=true&no-bg=true)]
 
 <p align="center">
   <a href="snake">
