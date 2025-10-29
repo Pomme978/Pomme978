@@ -1,7 +1,5 @@
 
-![](https://github-profile-trophy.vercel.app/?username=Samuel-deoliveira&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=Pomme978&icon=7&color=8)](https://visitcount.itsvg.in)
+[![](https://github-profile-trophy.vercel.app/?username=Pomme978&theme=onestar&no-frame=true&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 <p align="center">
   <a href="snake">
